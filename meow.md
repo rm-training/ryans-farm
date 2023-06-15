@@ -1,5 +1,7 @@
 # Cats
 
+----
+
 ```txt
                  meow  
                     \
