@@ -4,9 +4,10 @@
 
 Welcome to the project
 
-* [Cats](meow.md)
-* [Dog](dog.md)
-* [Elephant](elephant.md)
+* [Cats!](meow.md)
+* [Dog!](dog.md)
+* [Elephant!](elephant.md)
+* [Horse!](./horsey.md)
 
 ## Arrdvark
 
