@@ -9,6 +9,8 @@ These are our animals:
 * [Cats (meow!)](meow.md)
 * [Dog (bark)](dog.md)
 * [Elephant (bfffft)](elephant.md)
+* [Pigs (oink)](./pigs.md)
+* [Penguin (chitter)](./penguin.md)
 
 ## Arrdvark
 
