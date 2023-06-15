@@ -4,9 +4,11 @@
 
 Welcome to the project
 
-* [Cats](meow.md)
-* [Dog](dog.md)
-* [Elephant](elephant.md)
+These are our animals:
+
+* [Cats (meow!)](meow.md)
+* [Dog (bark)](dog.md)
+* [Elephant (bfffft)](elephant.md)
 
 ## Arrdvark
 
