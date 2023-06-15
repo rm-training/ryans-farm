@@ -4,6 +4,10 @@
 
 Welcome to the project
 
+* [Cats](meow.md)
+* [Dog](dog.md)
+* [Elephant](elephant.md)
+
 ## Arrdvark
 
 ```txt
